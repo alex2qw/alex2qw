@@ -15,7 +15,7 @@ Aspiring **Software Engineer** based in **Hertfordshire, UK**. I enjoy building 
 **Databases**: MySQL  
 **Concepts**: OOP • Data Structures • REST APIs • Authentication/Authorization • Logging • Testing
 
-Badges (optional):  
+Badges:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
 ---
