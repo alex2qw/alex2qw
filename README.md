@@ -29,14 +29,14 @@ A web application for collecting product prices from different vendors, recordin
 
 The part I'm proudest of is bringing the data pipeline together: collecting the data, extracting useful fields, storing it, and making it understandable through graphs.
 
-`Python` · `Flask` · `Selenium` · `BeautifulSoup` · `SQLAlchemy` · `MySQL` · `Chart.js`
+![Python](https://img.shields.io/badge/Python-202938?style=flat&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-202938?style=flat&logo=flask&logoColor=FFFFFF) ![Selenium](https://img.shields.io/badge/Selenium-202938?style=flat&logo=selenium&logoColor=43B02A) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-202938?style=flat) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-202938?style=flat&logo=sqlalchemy&logoColor=D71F00) ![MySQL](https://img.shields.io/badge/MySQL-202938?style=flat&logo=mysql&logoColor=79B8D4) ![Chart.js](https://img.shields.io/badge/Chart.js-202938?style=flat&logo=chartdotjs&logoColor=FF6384)
 
 ### [Real Estate Market Analyzer](https://github.com/alex2qw/real-estate-analyzer)
 **Exploratory project**
 
 A Python web project exploring property data collection and market analysis, with code for price statistics, trends, and comparisons by location and property type.
 
-`Python` · `Flask` · `SQLAlchemy` · `Pandas` · `NumPy`
+![Python](https://img.shields.io/badge/Python-202938?style=flat&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-202938?style=flat&logo=flask&logoColor=FFFFFF) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-202938?style=flat&logo=sqlalchemy&logoColor=D71F00) ![Pandas](https://img.shields.io/badge/Pandas-202938?style=flat&logo=pandas&logoColor=B7A9E8) ![NumPy](https://img.shields.io/badge/NumPy-202938?style=flat&logo=numpy&logoColor=4DABCF)
 
 ## Current focus
 
