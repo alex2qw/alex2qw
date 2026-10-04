@@ -1,58 +1,66 @@
-# Hi, I'm Alexandru 👋
+<div align="center">
 
-Aspiring **Software Engineer** based in **Hertfordshire, UK**. I enjoy building practical software end-to-end — from data collection and database design to secure authentication, APIs, testing, and deployment.
+# Alexandru
 
-- 🔭 Currently building and improving full-stack projects (Python/Flask + MySQL)
-- ✅ Interested in **Software Engineering Degree Apprenticeships** (UK)
-- 🌱 Learning more about testing, CI/CD, and production-ready engineering
+**University student · Aspiring software engineer**
 
----
+Hertfordshire, UK · Open to software engineering internships
 
-## Tech Stack
+[Email](mailto:2alexandrua2007@gmail.com) · [GitHub](https://github.com/alex2qw) · [Problem solving](https://github.com/alex2qw/neetcode-submissions)
 
-**Languages**: Python • Java • SQL • JavaScript • HTML/CSS  
-**Frameworks/Tools**: Flask • SQLAlchemy • Docker • Git • GitHub Actions • Selenium • BeautifulSoup • Chart.js  
-**Databases**: MySQL  
-**Concepts**: OOP • Data Structures • REST APIs • Authentication/Authorization • Logging • Testing
-
-Badges:  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+</div>
 
 ---
 
-## Featured Project
+I enjoy building applications that turn raw data into useful information. My projects have explored web scraping, relational databases, price tracking, and interactive visualisations.
 
-### Carpentry Price Tracker & Quoting Web App (A-Level NEA)
-A full-stack web app that scrapes products from multiple vendors, stores them in a relational database, tracks price history, and provides analytics + quoting features.
+I'm working towards a career in software engineering, building on university study and CS50 with practical projects and regular problem-solving practice.
 
-Highlights:
-- Scraped and stored **531** products; normalised vendor price formats
-- Designed relational schema: **Vendor → Product → PriceHistory** (SQLAlchemy)
-- Implemented secure auth: **bcrypt**, **email MFA**, **password reset**
-- Built JSON endpoints for analytics + interactive charts
-- Added **pytest** tests + **GitHub Actions** CI
-- Dockerised with **Docker Compose** (app + MySQL)
+## Selected work
 
-Repo: https://github.com/alex2qw
+### Carpentry Price Tracker & Quoting App
+**A-Level Computer Science project · Private repository**
+
+A web application for collecting product prices from different vendors, recording changes over time, and exploring the results through graphs and quoting tools.
+
+- Built vendor-specific extraction logic using Selenium and BeautifulSoup.
+- Connected scraped product data to relational storage with SQLAlchemy.
+- Added price-history tracking and JSON endpoints for trends and vendor comparisons.
+
+The part I'm proudest of is bringing the data pipeline together: collecting the data, extracting useful fields, storing it, and making it understandable through graphs.
+
+`Python` · `Flask` · `Selenium` · `BeautifulSoup` · `SQLAlchemy` · `MySQL` · `Chart.js`
+
+### [Real Estate Market Analyzer](https://github.com/alex2qw/real-estate-analyzer)
+**Exploratory project**
+
+A Python web project exploring property data collection and market analysis, with code for price statistics, trends, and comparisons by location and property type.
+
+`Python` · `Flask` · `SQLAlchemy` · `Pandas` · `NumPy`
+
+## Current focus
+
+- Practising data structures and algorithms through **LeetCode and NeetCode**.
+- Building on the computer science foundations I developed through **CS50**.
+- Exploring ideas for my next personal project.
+
+[Browse my NeetCode submissions →](https://github.com/alex2qw/neetcode-submissions)
+
+## Technologies I've used
+
+| Area | Technologies |
+| :--- | :--- |
+| Languages | Python, Java, SQL, JavaScript, HTML/CSS |
+| Web & data | Flask, SQLAlchemy, MySQL, Pandas, NumPy |
+| Data collection | Selenium, BeautifulSoup |
+| Development tools | Git, Docker, GitHub Actions |
+
+## Background
+
+Currently studying at university after completing A-levels. Completed **CS50: Introduction to Computer Science**.
 
 ---
 
-## What I'm Working On
+**Let's connect** — I'm interested in software engineering internships and opportunities to learn.
 
-- Making projects more **production-ready**: better API validation, error handling, and observability
-- Improving **testing depth** (integration tests) and faster feedback in CI
-- Getting stronger at core CS skills through practice (50+ LeetCode problems)
-
----
-
-## Certifications
-
-- **CS50: Introduction to Computer Science (Harvard)** — C, Python, SQL, web fundamentals
-
----
-
-## Contact
-
-- Email: **2alexandrua2007@gmail.com**
-- GitHub: https://github.com/alex2qw
-
+[2alexandrua2007@gmail.com](mailto:2alexandrua2007@gmail.com)
