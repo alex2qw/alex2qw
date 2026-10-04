@@ -12,7 +12,7 @@ Hertfordshire, UK · Open to software engineering internships
 
 ---
 
-I enjoy building applications that turn raw data into useful information. My projects have explored web scraping, relational databases, price tracking, and interactive visualisations.
+I enjoy building applications that turn raw data into useful information. My projects have explored web scraping, relational databases, price tracking, and interactive visualisations. I'm also interested in reverse engineering and understanding how existing software works.
 
 I'm working towards a career in software engineering, building on university study and CS50 with practical projects and regular problem-solving practice.
 
@@ -42,7 +42,8 @@ A Python web project exploring property data collection and market analysis, wit
 
 - Practising data structures and algorithms through **LeetCode and NeetCode**.
 - Building on the computer science foundations I developed through **CS50**.
-- Exploring ideas for my next personal project.
+- Exploring **reverse engineering**: I've used **ILSpy** to decompile and inspect AlecaFrame, an Overwolf app.
+- Learning **Bash** and exploring ideas for my next personal project.
 
 [Browse my NeetCode submissions →](https://github.com/alex2qw/neetcode-submissions)
 
@@ -54,6 +55,9 @@ A Python web project exploring property data collection and market analysis, wit
 | Web & data | Flask, SQLAlchemy, MySQL, Pandas, NumPy |
 | Data collection | Selenium, BeautifulSoup |
 | Development tools | Git, Docker, GitHub Actions |
+| Code inspection | ILSpy |
+
+**Also studied:** C and C++. I'm still developing practical experience with both.
 
 ## Background
 
