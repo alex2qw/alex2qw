@@ -38,6 +38,20 @@ A Python web project exploring property data collection and market analysis, wit
 
 ![Python](https://img.shields.io/badge/Python-101826?style=for-the-badge&logo=python&logoColor=3776AB) ![Flask](https://img.shields.io/badge/Flask-101826?style=for-the-badge&logo=flask&logoColor=FFFFFF) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-101826?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00) ![Pandas](https://img.shields.io/badge/Pandas-101826?style=for-the-badge&logo=pandas&logoColor=B7A9E8) ![NumPy](https://img.shields.io/badge/NumPy-101826?style=for-the-badge&logo=numpy&logoColor=4DABCF)
 
+### [ASCII Studio](https://github.com/alex2qw/ASCII-image-converter)
+**Full-stack personal project · Runs locally**
+
+A browser-based image converter that turns uploaded images into customizable
+ASCII art. It includes live previews, black-and-white and color rendering,
+custom character ramps, presets, contrast and brightness controls, custom
+fonts, and PNG downloads.
+
+- Built the image-conversion library and HTTP API in Rust with Axum.
+- Built the interactive editor with React, TypeScript, and Vite.
+- Added input-size and decoded-pixel limits so uploads are processed safely in memory.
+
+![Rust](https://img.shields.io/badge/Rust-101826?style=for-the-badge&logo=rust&logoColor=CE422B) ![Axum](https://img.shields.io/badge/Axum-101826?style=for-the-badge) ![React](https://img.shields.io/badge/React-101826?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-101826?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Vite](https://img.shields.io/badge/Vite-101826?style=for-the-badge&logo=vite&logoColor=646CFF)
+
 ## Current focus
 
 - Practising data structures and algorithms through **LeetCode and NeetCode**.
